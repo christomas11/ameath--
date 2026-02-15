@@ -1,0 +1,17 @@
+{
+  "api_key": "sk-63805965402f4c71aae9fbc95a5d8194",
+  "base_url": "https://api.deepseek.com",
+  "enable_ai": true,
+  "max_history_length": 100,
+  "auto_save_history": true,
+  "enable_screenshot_analysis": true,
+  "screenshot_interval": 60,
+  "screenshot_quality": 85,
+  "only_analyze_when_idle": false,
+  "temperature": 1.5,
+  "max_tokens": 500,
+  "model": "deepseek-chat",
+  "vl_model": "openbmb/minicpm-v4.5:8b",
+  "vl_api_key": "",
+  "vl_api_url": "http://localhost:11434/v1/chat/completions"
+}
